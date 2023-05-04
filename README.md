@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **html,css,bootstrap and nuxt 3**
 
-- 📫 How to reach me **daniljeus.ampatin@gmail.com**
+- 📫 How to reach me **daniljeus.ampatin@evsu.edu.ph**
 
 - 📚 Currenty Enrolled in **Bachelor of science in Information Technology**
 
