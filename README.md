@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/kkirito36" target="blank"><img src="https://img.shields.io/twitter/follow/kkirito36?logo=twitter&style=for-the-badge" alt="kkirito36" /></a> </p>
 
-- 🔭 I’m currently working on [Payment-Gateway-UI](https://github.com/paytaca/payment-gateway-ui.git)
+- 🔭 I’m currently working on EZAccounting Webpage
 
-- 🌱 I’m currently learning **NUXT 3**
+- 🌱 I’m currently learning **C# MS2020**
 
 - 💬 Ask me about **html,css,bootstrap and nuxt 3**
 
 - 📫 How to reach me **daniljeus.ampatin@evsu.edu.ph**
 
-- 📚 Currenty Enrolled in **Bachelor of science in Information Technology**
+- 📚 Graduated in **Bachelor of science in Information Technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
